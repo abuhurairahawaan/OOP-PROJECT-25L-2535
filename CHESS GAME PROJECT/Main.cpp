@@ -11,8 +11,6 @@ public:
 int main() {
 
 
-	cout << "hi world";
-	cout << "Bye world";
 
 
 
